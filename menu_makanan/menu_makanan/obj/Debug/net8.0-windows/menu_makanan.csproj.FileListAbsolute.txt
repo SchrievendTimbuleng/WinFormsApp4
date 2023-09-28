@@ -1,0 +1,17 @@
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\bin\Debug\net8.0-windows\menu_makanan.exe
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\bin\Debug\net8.0-windows\menu_makanan.deps.json
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\bin\Debug\net8.0-windows\menu_makanan.runtimeconfig.json
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\bin\Debug\net8.0-windows\menu_makanan.dll
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\bin\Debug\net8.0-windows\menu_makanan.pdb
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.Form1.resources
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.Properties.Resources.resources
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.AssemblyInfo.cs
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.dll
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\refint\menu_makanan.dll
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.pdb
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\menu_makanan.genruntimeconfig.cache
+C:\Users\ASUS TUF\source\repos\menu_makanan\menu_makanan\obj\Debug\net8.0-windows\ref\menu_makanan.dll
