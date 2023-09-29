@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\bin\Debug\net7.0-windows\Project Canteen.exe
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\bin\Debug\net7.0-windows\Project Canteen.deps.json
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\bin\Debug\net7.0-windows\Project Canteen.runtimeconfig.json
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\bin\Debug\net7.0-windows\Project Canteen.dll
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\bin\Debug\net7.0-windows\Project Canteen.pdb
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project_Canteen.Form1.resources
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.AssemblyInfo.cs
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.dll
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\refint\Project Canteen.dll
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.pdb
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project Canteen.genruntimeconfig.cache
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\ref\Project Canteen.dll
+C:\Users\USER\source\repos\Kelompok 9\Project Canteen\obj\Debug\net7.0-windows\Project_Canteen.Properties.Resources.resources
